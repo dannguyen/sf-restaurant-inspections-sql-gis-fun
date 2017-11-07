@@ -1,7 +1,21 @@
 
 # SF Restaurant inspections SQL/GIS fun
 
-## The data
+## The SF restaurant inspection data
+
+
+### As a SQLite database
+
+**SF restaurant inspection data as SQLite (with 3 tables: inspections, businesses, and violations):** [sf-restaurant-inspections.sqlite](https://github.com/dannguyen/sf-restaurant-inspections-sql-gis-fun/raw/master/data/sf-restaurant-inspections.sqlite)
+
+
+### As separate CSV
+
+- [businesses.csv](https://github.com/dannguyen/sf-restaurant-inspections-sql-gis-fun/raw/master/data/businesses.csv)
+- [inspections.csv](https://github.com/dannguyen/sf-restaurant-inspections-sql-gis-fun/raw/master/data/inspections_plus.csv)
+- [violations.csv](https://github.com/dannguyen/sf-restaurant-inspections-sql-gis-fun/raw/master/data/violations_plus.csv)
+
+
 
 
 
