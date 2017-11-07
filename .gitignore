@@ -1,0 +1,13 @@
+Gemfile.lock
+.DS_Store
+.yardoc/
+_drafts/
+_storage/
+doc/
+tmp/
+log/
+pkg/
+*.swp
+/.bundle
+.rvmrc
+drafts/
